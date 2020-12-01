@@ -1,0 +1,3121 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="information68b.tk" resolutions="1x" timestamp="1606835184078">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="15_09_18.css" crc="4179507565" ref="15.09.18"/>
+    <file name="_________-_______-___.css" crc="322919838" ref="экскурсия-бот.сад-отв"/>
+    <file name="6-_____-____.css" crc="99671330" ref="6-класс-фото"/>
+    <file name="__________-_-_____________.css" crc="4189139862" ref="посвящение-в-пятиклассники"/>
+    <file name="7-_____-____.css" crc="35739635" ref="7-класс-фото"/>
+    <file name="____-____.css" crc="297536052" ref="мета-урок"/>
+    <file name="8-_____-____.css" crc="101481136" ref="8-класс-фото"/>
+    <file name="_________-_-_____.css" crc="119095252" ref="экскурсия-в-музей"/>
+    <file name="____-______1.css" crc="3913420348" ref="день-победы"/>
+    <file name="_________-___________.css" crc="327555064" ref="последнее-мероприятие"/>
+    <file name="_______-_____-2019.css" crc="4027731829" ref="золотая-осень-2019"/>
+    <file name="_______-_____.css" crc="3891844095" ref="золотая-осень"/>
+    <file name="_____-___.css" crc="237274891" ref="новый-год"/>
+    <file name="1-________-2019.css" crc="230660449" ref="1-сентября-2019"/>
+    <file name="_____-_____-_-_____.css" crc="3771270217" ref="песня-строя-и-марша"/>
+    <file name="index.css" crc="4135054805" ref="index"/>
+    <file name="9-_____-____.css" crc="4175622192" ref="9-класс-фото"/>
+    <file name="________.css" crc="476218864" ref="хэллоуин"/>
+    <file name="23-_______-2020.css" crc="150568721" ref="23-февраля-2020"/>
+    <file name="_____-______.css" crc="341298696" ref="видео-класса"/>
+    <file name="______-____.css" crc="122715300" ref="просто-фото"/>
+    <file name="8-_____.css" crc="4021209178" ref="8-марта"/>
+    <file name="____-______.css" crc="3822744173" ref="фото-класса"/>
+    <file name="1-________.css" crc="4001694295" ref="1-сентября"/>
+    <file name="5-_____-____.css" crc="118224846" ref="5-класс-фото"/>
+    <file name="____-______2.css" crc="4223664220" ref="день-матери"/>
+  </folder>
+  <folder name="fonts">
+    <file name="myriadpro-regular.woff" crc="374773990"/>
+    <file name="myriadpro-regular.eot" crc="271343004"/>
+  </folder>
+  <folder name="assets">
+    <file name="slider-gallery.muse" crc="4077737594" seo="true" mt="1432444056000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:видео-класса:фото-класса:5-класс-фото:6-класс-фото:7-класс-фото:8-класс-фото:9-класс-фото:просто-фото:1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="museutils.js" crc="340535759" ref="index:видео-класса:фото-класса:5-класс-фото:6-класс-фото:7-класс-фото:8-класс-фото:9-класс-фото:просто-фото:1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="whatinput.js" crc="86476730" ref="index:видео-класса:фото-класса:5-класс-фото:6-класс-фото:7-класс-фото:8-класс-фото:9-класс-фото:просто-фото:1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:видео-класса:фото-класса:5-класс-фото:6-класс-фото:7-класс-фото:8-класс-фото:9-класс-фото:просто-фото:1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:видео-класса:фото-класса:5-класс-фото:6-класс-фото:7-класс-фото:8-класс-фото:9-класс-фото:просто-фото:1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="require.js" crc="7928878" ref="index:видео-класса:фото-класса:5-класс-фото:6-класс-фото:7-класс-фото:8-класс-фото:9-класс-фото:просто-фото:1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="webpro.js" crc="4059564322" ref="1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="touchswipe.js" crc="4075097462" ref="1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+  </folder>
+  <folder name="images">
+    <file name="наш-класс-favicon.ico" crc="4170556825" ref="index"/>
+    <file name="dsc_8458.jpg" crc="4048086794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="walou.jpg" crc="469334974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4811748.png" crc="447104846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="услуги.png" crc="103923360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="видео-класса-favicon.ico" crc="4170556825" ref="видео-класса"/>
+    <file name="5.jpg" crc="3959777563" seo="true" ref="фото-класса">
+      <caption webpage="фото-класса" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4068550373" seo="true" ref="фото-класса">
+      <caption webpage="фото-класса" alt=""/>
+    </file>
+    <file name="7к.jpg" crc="3962235872" seo="true" ref="фото-класса">
+      <caption webpage="фото-класса" alt=""/>
+    </file>
+    <file name="8.jpg" crc="293104653" seo="true" ref="фото-класса">
+      <caption webpage="фото-класса" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4148216046" seo="true" ref="фото-класса">
+      <caption webpage="фото-класса" alt=""/>
+    </file>
+    <file name="ouvu79b7fpwoww8g0wco4s0kk0k844.png" crc="422748908" seo="true" ref="просто-фото">
+      <caption webpage="просто-фото" alt=""/>
+    </file>
+    <file name="!dsc_4838.jpg" crc="509671927" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="!dsc_4871.jpg" crc="213215699" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4801.jpg" crc="366841089" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4806.jpg" crc="411121467" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4810.jpg" crc="533829808" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4811.jpg" crc="4073726590" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4813.jpg" crc="442567158" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4814.jpg" crc="3797187024" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4815.jpg" crc="215806831" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4818.jpg" crc="3840713955" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4826.jpg" crc="3823598470" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4827.jpg" crc="4089716800" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4830.jpg" crc="4205657687" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4833.jpg" crc="4245365690" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4835.jpg" crc="253877167" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4836.jpg" crc="526822955" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4837.jpg" crc="3931213176" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4838.jpg" crc="3993720022" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4842.jpg" crc="3827661913" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4843.jpg" crc="135199649" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4844.jpg" crc="3805876267" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4845.jpg" crc="4282001901" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4847.jpg" crc="108989512" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4849.jpg" crc="3792111085" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4851.jpg" crc="136858697" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4852.jpg" crc="4057837874" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4853.jpg" crc="150698059" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4854.jpg" crc="375259987" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4855.jpg" crc="4016162138" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4856.jpg" crc="3941047968" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4857.jpg" crc="483696086" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4858.jpg" crc="4272944393" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4859.jpg" crc="374034576" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4860.jpg" crc="90919287" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4861.jpg" crc="4010795497" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4865.jpg" crc="44716331" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4866.jpg" crc="4107839031" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4867.jpg" crc="318004044" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4871.jpg" crc="469634639" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4873.jpg" crc="226191648" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4881.jpg" crc="4183476527" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4882.jpg" crc="147605044" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4883.jpg" crc="3816288525" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4884.jpg" crc="4020101225" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4885.jpg" crc="4214955107" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4886.jpg" crc="4022453925" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4887.jpg" crc="4003869569" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4888.jpg" crc="4182189698" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4889.jpg" crc="4192994400" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4890.jpg" crc="384397088" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4891.jpg" crc="1552217" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4892.jpg" crc="4264220191" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4893.jpg" crc="4203197880" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4895.jpg" crc="3910293221" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4898.jpg" crc="97032885" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4899.jpg" crc="32779260" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4900.jpg" crc="3979462467" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4901.jpg" crc="4109911724" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4902.jpg" crc="483859039" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4903.jpg" crc="4188580755" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4904.jpg" crc="470077573" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4905.jpg" crc="4234522641" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4906.jpg" crc="3989009999" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4907.jpg" crc="4038649097" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4908.jpg" crc="138635027" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4913.jpg" crc="3801934177" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4914.jpg" crc="3976307966" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4915.jpg" crc="3905565274" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4916.jpg" crc="3952687181" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4917.jpg" crc="400242367" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4918.jpg" crc="246097756" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4920.jpg" crc="469078805" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4923.jpg" crc="3946652052" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4924.jpg" crc="3907500544" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4925.jpg" crc="3854381484" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4926.jpg" crc="391572102" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4927.jpg" crc="197529123" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4928.jpg" crc="217732267" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4929.jpg" crc="3908073003" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4930.jpg" crc="272753298" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4931.jpg" crc="330571520" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4932.jpg" crc="408750355" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4933.jpg" crc="422225574" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4934.jpg" crc="324006278" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4935.jpg" crc="3853298232" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4936.jpg" crc="496763276" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4937.jpg" crc="12152408" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4938.jpg" crc="356289462" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4939.jpg" crc="400555630" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4940.jpg" crc="3827772950" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4941.jpg" crc="4167126059" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4942.jpg" crc="4183163693" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4943.jpg" crc="302555948" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4944.jpg" crc="326526831" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4945.jpg" crc="454896440" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4948.jpg" crc="284660977" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4949.jpg" crc="3978124538" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4950.jpg" crc="247457349" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4955.jpg" crc="390252347" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4957.jpg" crc="69487446" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4959.jpg" crc="4103007152" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4962.jpg" crc="212389593" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4964.jpg" crc="484009940" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4968.jpg" crc="33026315" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4969.jpg" crc="3800762923" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4972.jpg" crc="4025693690" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4976.jpg" crc="381300433" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4978.jpg" crc="515025167" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4980.jpg" crc="4013533307" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4983.jpg" crc="391653324" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4984.jpg" crc="4271115462" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4986.jpg" crc="4169419271" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4988.jpg" crc="3919197824" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4990.jpg" crc="53224135" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4994.jpg" crc="80527689" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_4996.jpg" crc="4241254837" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5001.jpg" crc="484013437" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5002.jpg" crc="256058025" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5005.jpg" crc="77116759" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5006.jpg" crc="218106660" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5007.jpg" crc="320292228" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5009.jpg" crc="313349964" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5012.jpg" crc="4139835047" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5014.jpg" crc="4209646019" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5015.jpg" crc="26484320" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5019.jpg" crc="1560813" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5020.jpg" crc="3844757006" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5021.jpg" crc="67101936" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5022.jpg" crc="113244817" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5024.jpg" crc="89603316" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5025.jpg" crc="3813930849" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5027.jpg" crc="200797426" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5031.jpg" crc="4233457518" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5034.jpg" crc="3815577408" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5035.jpg" crc="3961339230" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5039.jpg" crc="358361164" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5040.jpg" crc="460695126" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5043.jpg" crc="113751648" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5045.jpg" crc="186950410" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5047.jpg" crc="130036798" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5050.jpg" crc="3986187273" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5052.jpg" crc="317848520" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5057.jpg" crc="127439734" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5058.jpg" crc="35971922" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5059.jpg" crc="4111554613" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5060.jpg" crc="4218777842" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5062.jpg" crc="309580699" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5063.jpg" crc="4274737702" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5067.jpg" crc="4043070812" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5068.jpg" crc="439496571" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5069.jpg" crc="3976786204" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5070.jpg" crc="227005555" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5071.jpg" crc="4123716313" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5072.jpg" crc="4233316047" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5075.jpg" crc="4183805603" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5079.jpg" crc="121581473" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5080.jpg" crc="4236344604" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5081.jpg" crc="4005990880" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5082.jpg" crc="4040429835" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5083.jpg" crc="175909976" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5084.jpg" crc="359198570" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5085.jpg" crc="497566744" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5086.jpg" crc="56311020" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5087.jpg" crc="297849535" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5088.jpg" crc="71125698" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5089.jpg" crc="278746710" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5091.jpg" crc="3849121034" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5092.jpg" crc="512293613" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5093.jpg" crc="358074655" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5094.jpg" crc="4185012842" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5095.jpg" crc="4103008519" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5096.jpg" crc="4155696887" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5098.jpg" crc="4252189014" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5099.jpg" crc="487367540" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5100.jpg" crc="300027308" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5101.jpg" crc="3824781523" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5103.jpg" crc="485690659" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5104.jpg" crc="4124763438" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5105.jpg" crc="3792904966" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5106.jpg" crc="4023831767" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5109.jpg" crc="4000891322" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5111.jpg" crc="15042136" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5112.jpg" crc="4010738813" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5113.jpg" crc="4142859635" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5116.jpg" crc="3972497505" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5117.jpg" crc="4293082068" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5119.jpg" crc="4184925863" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5130.jpg" crc="348316499" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5133.jpg" crc="4215727260" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5140.jpg" crc="4156024085" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5141.jpg" crc="4115461183" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5142.jpg" crc="213912478" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5143.jpg" crc="458194635" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5144.jpg" crc="4182445923" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5145.jpg" crc="158358137" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5146.jpg" crc="171784620" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5147.jpg" crc="286927526" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5148.jpg" crc="283291501" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5149.jpg" crc="494574232" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5154.jpg" crc="153301608" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5155.jpg" crc="3953316300" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5157.jpg" crc="3881724178" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5158.jpg" crc="378028499" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="dsc_5160.jpg" crc="145856413" seo="true" ref="1-сентября">
+      <caption webpage="1-сентября" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="1-сентября:15.09.18:экскурсия-бот.сад-отв:посвящение-в-пятиклассники:мета-урок:экскурсия-в-музей:день-победы:последнее-мероприятие:золотая-осень:1-сентября-2019:хэллоуин:день-матери:золотая-осень-2019:новый-год:песня-строя-и-марша:23-февраля-2020:8-марта"/>
+    <file name="whatsapp image 2018-09-15 at 163341.jpg" crc="143669064" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163347 (1).jpg" crc="4114578005" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163347 (2).jpg" crc="326849679" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163347 (3).jpg" crc="4129402862" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163347.jpg" crc="4197198146" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163348 (1).jpg" crc="207582477" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163348.jpg" crc="3972036796" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163349 (1).jpg" crc="294519425" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163349 (2).jpg" crc="4028399205" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163349.jpg" crc="423552027" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163350 (1).jpg" crc="236361836" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163350 (2).jpg" crc="508607778" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163350.jpg" crc="3772233960" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163351 (1).jpg" crc="443964281" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163351 (2).jpg" crc="4094677627" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163351.jpg" crc="268070737" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163352 (1).jpg" crc="4021917636" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163352.jpg" crc="4171919555" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163353 (1).jpg" crc="224419543" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163353 (2).jpg" crc="262010474" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163353.jpg" crc="4128502018" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163354 (1).jpg" crc="4166951631" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163354 (2).jpg" crc="3922396157" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163354.jpg" crc="436639905" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163355 (1).jpg" crc="3759457269" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163355.jpg" crc="180539295" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163356 (1).jpg" crc="4099156316" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163356 (2).jpg" crc="4157102746" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163356.jpg" crc="4184883961" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163357.jpg" crc="4219978719" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163527.jpg" crc="224419543" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163556 (1).jpg" crc="4157102746" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163556 (2).jpg" crc="180539295" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163556 (3).jpg" crc="4166951631" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163556.jpg" crc="4128502018" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163557.jpg" crc="3922396157" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163559.jpg" crc="3810120991" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163600.jpg" crc="257489960" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163601.jpg" crc="3810392696" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163603.jpg" crc="75583211" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163607.jpg" crc="3783072363" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163608.jpg" crc="4102416865" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163609.jpg" crc="3795413392" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163611.jpg" crc="3892028260" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163614 (1).jpg" crc="3852370501" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163614.jpg" crc="4126481692" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163616.jpg" crc="59151131" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163617.jpg" crc="4162325535" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163618 (1).jpg" crc="413493397" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163618 (2).jpg" crc="123131" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163618 (3).jpg" crc="3844757065" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163618.jpg" crc="65493030" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163619 (1).jpg" crc="345249384" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163619 (2).jpg" crc="134854170" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163619 (3).jpg" crc="92643660" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163619.jpg" crc="433781892" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163620 (1).jpg" crc="4007275645" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163620 (2).jpg" crc="208602968" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163620.jpg" crc="296669156" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163809 (1).jpg" crc="280909473" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163809.jpg" crc="4046677161" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163810 (1).jpg" crc="4226471289" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163810.jpg" crc="254533037" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163811 (1).jpg" crc="3855697680" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163811.jpg" crc="4235443104" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163812 (1).jpg" crc="257718923" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163812.jpg" crc="3963938383" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163813 (1).jpg" crc="3771164647" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163813.jpg" crc="4210876386" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163814 (1).jpg" crc="19617849" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163814.jpg" crc="38463173" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163815 (1).jpg" crc="411433281" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163815.jpg" crc="3938787792" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163816 (1).jpg" crc="117097858" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163816.jpg" crc="4217744638" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163817 (1).jpg" crc="3906571343" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163817.jpg" crc="3836640854" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163818.jpg" crc="332529367" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163819 (1).jpg" crc="4190919177" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163819.jpg" crc="529421694" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163820 (1).jpg" crc="4017198204" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163820.jpg" crc="34020873" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163821 (1).jpg" crc="80393783" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163821.jpg" crc="3935880477" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163822 (1).jpg" crc="398906441" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163822.jpg" crc="3838441175" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163823 (1).jpg" crc="377690892" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-15 at 163823.jpg" crc="122273947" seo="true" ref="15.09.18">
+      <caption webpage="15.09.18" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113608.jpg" crc="95255033" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113610 (1).jpg" crc="4147878700" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113610 (2).jpg" crc="110585392" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113610.jpg" crc="4191766599" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113611.jpg" crc="494038294" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113612 (1).jpg" crc="3912254572" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113612.jpg" crc="4078516385" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113613 (1).jpg" crc="204262820" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113613.jpg" crc="3968518161" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113614 (1).jpg" crc="3879680552" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113614.jpg" crc="41208910" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113615 (1).jpg" crc="3974399705" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113615.jpg" crc="146038397" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 113616.jpg" crc="525128554" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 115052 (1).jpg" crc="3947622277" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 115052.jpg" crc="4080230441" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120025.jpg" crc="193479465" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120033.jpg" crc="48604764" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120954.jpg" crc="4099845737" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120955 (1).jpg" crc="378138564" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120955.jpg" crc="4007792487" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120956.jpg" crc="3855726314" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120957 (1).jpg" crc="3810949987" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120957.jpg" crc="3804675871" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120958 (1).jpg" crc="222156293" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120958.jpg" crc="4014960397" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 120959.jpg" crc="124181940" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121001 (1).jpg" crc="4049199818" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121001 (2).jpg" crc="293454668" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121001.jpg" crc="4030149473" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121002 (1).jpg" crc="198896109" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121002 (2).jpg" crc="450850730" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121002.jpg" crc="179765958" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121003 (1).jpg" crc="4150970032" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 121003.jpg" crc="201111948" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 142406.jpg" crc="4102857407" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 142407 (1).jpg" crc="36608323" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 142407.jpg" crc="345532382" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 142408.jpg" crc="172952028" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 144728.jpg" crc="4279602546" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 144732 (1).jpg" crc="4088305395" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 144732.jpg" crc="242646710" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 144733.jpg" crc="484685727" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161413.jpg" crc="4029903128" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161504 (1).jpg" crc="496437825" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161504.jpg" crc="32358135" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161505.jpg" crc="441242144" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161506.jpg" crc="214414236" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161507 (1).jpg" crc="476132516" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-30 at 161507.jpg" crc="4274574301" seo="true" ref="экскурсия-бот.сад-отв">
+      <caption webpage="экскурсия-бот.сад-отв" alt=""/>
+    </file>
+    <file name="dsc_5835.jpg" crc="21290347" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5836.jpg" crc="483548624" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5837.jpg" crc="328252639" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5838.jpg" crc="3909895705" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5839.jpg" crc="230355711" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5840.jpg" crc="489063472" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5841.jpg" crc="4228438914" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5842.jpg" crc="196442965" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5843.jpg" crc="3837304738" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5844.jpg" crc="4224840203" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5845.jpg" crc="359166531" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5846.jpg" crc="3959076248" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5847.jpg" crc="4028272988" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5848.jpg" crc="195202912" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5849.jpg" crc="3893003565" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5850.jpg" crc="3948870682" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5851.jpg" crc="3870529839" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5852.jpg" crc="4289303189" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5853.jpg" crc="3930063482" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5854.jpg" crc="3904418242" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5855.jpg" crc="3982403059" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5856.jpg" crc="347305582" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5857.jpg" crc="4139826116" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5858.jpg" crc="3868438570" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5859.jpg" crc="295768454" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5860.jpg" crc="4041202073" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5861.jpg" crc="523196653" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5862.jpg" crc="4089790565" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5863.jpg" crc="4068876692" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5864.jpg" crc="202678789" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5865.jpg" crc="71786979" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5866.jpg" crc="268192329" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5867.jpg" crc="4170791213" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5868.jpg" crc="4183304853" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5869.jpg" crc="476443530" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5870.jpg" crc="3816135168" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5871.jpg" crc="3761534204" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5873.jpg" crc="4100166394" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5874.jpg" crc="59374818" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5875.jpg" crc="194697080" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5876.jpg" crc="3934724836" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5877.jpg" crc="4217781510" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5878.jpg" crc="3807987024" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5879.jpg" crc="4264573516" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5880.jpg" crc="3829975746" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5881.jpg" crc="4248510615" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5883.jpg" crc="496719070" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5884.jpg" crc="65459066" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5885.jpg" crc="94181630" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5886.jpg" crc="4184945384" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5887.jpg" crc="122639892" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5888.jpg" crc="129454539" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5889.jpg" crc="3843598930" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5891.jpg" crc="460402417" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5892.jpg" crc="4224178867" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5893.jpg" crc="377899128" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5894.jpg" crc="4054297449" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5895.jpg" crc="4130797734" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5896.jpg" crc="368618874" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5897.jpg" crc="325731256" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5898.jpg" crc="4154396837" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5899.jpg" crc="508324393" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5900.jpg" crc="4202773171" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5901.jpg" crc="361002661" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5902.jpg" crc="97639925" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5903.jpg" crc="78394352" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5904.jpg" crc="3794459804" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5905.jpg" crc="196981845" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5906.jpg" crc="3825175217" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5907.jpg" crc="3951569416" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5908.jpg" crc="36320873" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="dsc_5909.jpg" crc="4193111093" seo="true" ref="посвящение-в-пятиклассники">
+      <caption webpage="посвящение-в-пятиклассники" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172826.jpg" crc="348179595" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172827.jpg" crc="4014292040" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172828.jpg" crc="215829605" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172829.jpg" crc="4017002322" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172830.jpg" crc="142374690" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172831.jpg" crc="531178183" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172832.jpg" crc="3878362067" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172833.jpg" crc="73444312" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172834.jpg" crc="404340317" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172836 (1).jpg" crc="59080916" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172836.jpg" crc="4012598748" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172837.jpg" crc="223785221" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172838.jpg" crc="110377003" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172839.jpg" crc="3820969073" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172841.jpg" crc="273258136" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172842.jpg" crc="440132001" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172843.jpg" crc="517809770" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172846.jpg" crc="504245660" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172847.jpg" crc="510450372" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172850.jpg" crc="180367836" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172852.jpg" crc="139913262" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172854.jpg" crc="464543721" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172857.jpg" crc="489487785" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172858.jpg" crc="3764193079" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172900.jpg" crc="4278311533" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172902.jpg" crc="4032721806" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172908.jpg" crc="51115470" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172910.jpg" crc="461401650" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172913.jpg" crc="68618165" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172915.jpg" crc="3836576770" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172918.jpg" crc="3862955030" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172920.jpg" crc="435123226" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172922.jpg" crc="483852608" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172928.jpg" crc="341590061" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172931.jpg" crc="248034206" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172933.jpg" crc="4196160870" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172936.jpg" crc="219960672" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172939.jpg" crc="274410452" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172942.jpg" crc="402744088" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172945.jpg" crc="323551195" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172948.jpg" crc="4278224326" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172951.jpg" crc="4069284952" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172953.jpg" crc="460118515" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172956.jpg" crc="3891143582" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 172959.jpg" crc="4203161893" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173001.jpg" crc="3907860663" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173003.jpg" crc="3967907205" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173008.jpg" crc="4133410858" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173014.jpg" crc="243746617" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173017.jpg" crc="487239601" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173020.jpg" crc="320276844" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173022.jpg" crc="345728037" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173025.jpg" crc="84210778" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173028.jpg" crc="379095916" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173030.jpg" crc="224344259" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173032.jpg" crc="3949616894" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173035.jpg" crc="15282575" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173037.jpg" crc="224344259" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173038.jpg" crc="3949616894" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173040.jpg" crc="4106492757" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173041.jpg" crc="15282575" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173042 (1).jpg" crc="3873978149" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173042.jpg" crc="4213966191" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-07 at 173043.jpg" crc="84210778" seo="true" ref="мета-урок">
+      <caption webpage="мета-урок" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 140953.jpg" crc="81734850" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 142828.jpg" crc="4087269881" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 144329.jpg" crc="3940493168" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 145903.jpg" crc="341737590" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 150003.jpg" crc="220750789" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 165826.jpg" crc="210501171" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 171247.jpg" crc="4220010287" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175151.jpg" crc="409640548" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175152.jpg" crc="501555148" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175153.jpg" crc="310189425" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175154.jpg" crc="264438731" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175155.jpg" crc="211479348" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175156.jpg" crc="201850049" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175158.jpg" crc="514106686" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175159.jpg" crc="3847564593" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175201.jpg" crc="388262415" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175202.jpg" crc="171119476" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175203.jpg" crc="4090855693" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175204.jpg" crc="4259926970" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175320.jpg" crc="226754221" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175406.jpg" crc="331410702" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175500.jpg" crc="4106006504" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175725.jpg" crc="4239908410" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175726.jpg" crc="4191678166" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175727 (1).jpg" crc="56793987" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175727.jpg" crc="499409932" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175728 (1).jpg" crc="190354897" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175728 (2).jpg" crc="4118452220" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175728.jpg" crc="341005053" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-18 at 175729.jpg" crc="413789165" seo="true" ref="экскурсия-в-музей">
+      <caption webpage="экскурсия-в-музей" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 171616.jpg" crc="4217027519" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172417 (1).jpg" crc="3826891066" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172417.jpg" crc="4012514728" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172418.jpg" crc="3917952159" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172419.jpg" crc="4212956517" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172420 (1).jpg" crc="4195226558" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172420.jpg" crc="285899" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 172421.jpg" crc="412849836" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-08 at 173343.jpg" crc="143726590" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-09 at 111654.jpg" crc="4278367424" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-18 at 120558.jpg" crc="176493159" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-18 at 120717 (1).jpg" crc="391326618" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-18 at 120717.jpg" crc="232165985" seo="true" ref="день-победы">
+      <caption webpage="день-победы" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130034.jpg" crc="3981667753" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130035.jpg" crc="70599266" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130037.jpg" crc="3944926237" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130039.jpg" crc="500040031" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130040.jpg" crc="130253267" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130042.jpg" crc="12516521" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130044.jpg" crc="348835826" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130046.jpg" crc="3795638912" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130048.jpg" crc="268913123" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130049.jpg" crc="166079853" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130051.jpg" crc="4041703287" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130052.jpg" crc="4068543416" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130053.jpg" crc="4181038444" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130054.jpg" crc="3965510000" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130055 (1).jpg" crc="4088442544" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-05-24 at 130055.jpg" crc="4140317703" seo="true" ref="последнее-мероприятие">
+      <caption webpage="последнее-мероприятие" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102308.jpg" crc="182370577" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102314.jpg" crc="312544002" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102320.jpg" crc="493980760" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102325.jpg" crc="3925761113" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102333.jpg" crc="4048344884" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102340.jpg" crc="273986094" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102347.jpg" crc="3907709989" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 102355.jpg" crc="4083068655" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111812.jpg" crc="4092512346" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111814.jpg" crc="128915329" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111817.jpg" crc="420382427" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111819.jpg" crc="416632519" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111821.jpg" crc="3990092330" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111823.jpg" crc="3868858498" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111825.jpg" crc="4037828139" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111826.jpg" crc="4248200431" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111828.jpg" crc="3917494970" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111830.jpg" crc="221195755" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111833.jpg" crc="4108016943" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111838.jpg" crc="4270517374" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111841.jpg" crc="3822985415" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111843.jpg" crc="4122405304" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111845.jpg" crc="3818556102" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111848.jpg" crc="421222569" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111851.jpg" crc="267122485" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111855.jpg" crc="171974782" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111907.jpg" crc="3809931686" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111912.jpg" crc="4246722972" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111916.jpg" crc="4289807181" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111918.jpg" crc="4130231243" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111919.jpg" crc="166172745" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111921.jpg" crc="136687103" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111922.jpg" crc="4128241379" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111924.jpg" crc="4072232433" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111926.jpg" crc="314922856" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111927.jpg" crc="3866948087" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111929.jpg" crc="100829724" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111931.jpg" crc="206547949" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111932.jpg" crc="3996997890" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111933.jpg" crc="502451550" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111935 (1).jpg" crc="3884941220" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111935.jpg" crc="4094341507" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-08 at 111936.jpg" crc="181827528" seo="true" ref="золотая-осень">
+      <caption webpage="золотая-осень" alt=""/>
+    </file>
+    <file name="!dsc_8462 copy.jpg" crc="301815248" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8354.jpg" crc="384509998" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8355.jpg" crc="124982309" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8356.jpg" crc="58731232" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8357.jpg" crc="527412987" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8358.jpg" crc="4015930952" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8359.jpg" crc="3954124918" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8360.jpg" crc="168716250" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8361.jpg" crc="78462334" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8362.jpg" crc="3912696392" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8363.jpg" crc="347846956" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8364.jpg" crc="516575637" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8365.jpg" crc="3773295915" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8366.jpg" crc="67444327" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8367.jpg" crc="133330680" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8368.jpg" crc="425074678" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8369.jpg" crc="344089230" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8370.jpg" crc="4259733722" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8371.jpg" crc="147805791" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8372.jpg" crc="526301728" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8373.jpg" crc="3896923372" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8374.jpg" crc="356773790" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8375.jpg" crc="4272616579" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8377.jpg" crc="222477970" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8378.jpg" crc="392712098" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8379.jpg" crc="437644671" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8381.jpg" crc="50771465" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8382.jpg" crc="101418779" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8383.jpg" crc="3843854270" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8388.jpg" crc="3948351825" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8389.jpg" crc="321845108" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8390.jpg" crc="3894779565" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8391.jpg" crc="515005303" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8392.jpg" crc="124549556" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8393.jpg" crc="173611521" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8394.jpg" crc="4107697237" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8395.jpg" crc="4028008890" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8396.jpg" crc="285783082" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8397.jpg" crc="159772917" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8398.jpg" crc="3892888050" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8399.jpg" crc="88807969" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8401.jpg" crc="229645802" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8402.jpg" crc="247394898" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8403.jpg" crc="317672954" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8404.jpg" crc="276545047" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8405.jpg" crc="522614158" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8406.jpg" crc="361791042" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8407.jpg" crc="61120309" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8408.jpg" crc="4219376614" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8409.jpg" crc="3808601243" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8411.jpg" crc="4246171030" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8413.jpg" crc="157808035" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8414.jpg" crc="131094594" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8416.jpg" crc="3775426345" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8417.jpg" crc="4221519410" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8418.jpg" crc="103469821" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8419.jpg" crc="4020106592" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8420.jpg" crc="3974313434" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8422.jpg" crc="308281515" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8423.jpg" crc="3999795923" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8424.jpg" crc="4255994976" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8425.jpg" crc="305703476" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8426.jpg" crc="4142114181" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8427.jpg" crc="3886477479" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8429.jpg" crc="273292038" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8430.jpg" crc="4176879601" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8431.jpg" crc="3863967038" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8432.jpg" crc="13892487" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8435.jpg" crc="4001756702" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8436.jpg" crc="4114695212" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8438.jpg" crc="124147489" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8439.jpg" crc="113424092" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8440.jpg" crc="4055914343" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8441.jpg" crc="4164353923" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8442.jpg" crc="54020241" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8443.jpg" crc="443384265" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8445.jpg" crc="3960971780" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8453.jpg" crc="4076706828" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8454.jpg" crc="3943787240" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8455.jpg" crc="4013666197" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8456.jpg" crc="4156591046" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8457.jpg" crc="4294075859" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_84582.jpg" crc="3980098066" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8459.jpg" crc="4203591318" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8460.jpg" crc="399500165" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8461.jpg" crc="3935255062" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8462.jpg" crc="458536560" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8464.jpg" crc="237716048" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8465.jpg" crc="225028469" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8466.jpg" crc="3870587103" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8468.jpg" crc="4085588473" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8469.jpg" crc="9488197" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8470.jpg" crc="272046121" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8471.jpg" crc="3978726612" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8472.jpg" crc="4023816424" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8474.jpg" crc="419616752" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8476.jpg" crc="4221609713" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8479.jpg" crc="4289274333" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8480.jpg" crc="457936754" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8481.jpg" crc="296170869" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8482.jpg" crc="3766625058" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8483.jpg" crc="254303965" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8484.jpg" crc="4147911904" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8486.jpg" crc="252292482" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8487.jpg" crc="259019749" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8488.jpg" crc="4034782313" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8489.jpg" crc="109617030" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8490.jpg" crc="280948092" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8491.jpg" crc="4214235" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8492.jpg" crc="309147492" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8493.jpg" crc="490870423" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8494.jpg" crc="422232741" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8495.jpg" crc="452559522" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8496.jpg" crc="3915163867" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8497.jpg" crc="4141451682" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8498.jpg" crc="3784532170" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8499.jpg" crc="4026835044" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8500.jpg" crc="3890938179" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8501.jpg" crc="451500482" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8502.jpg" crc="4103529780" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8504.jpg" crc="493059523" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8505.jpg" crc="402719845" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8506.jpg" crc="233772743" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8507.jpg" crc="530686498" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8508.jpg" crc="4110263362" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8509.jpg" crc="535897951" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8510.jpg" crc="4175696188" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8511.jpg" crc="4279675139" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8512.jpg" crc="4130180941" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8513.jpg" crc="83695915" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8514.jpg" crc="4036285837" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8515.jpg" crc="320984195" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8516.jpg" crc="4231279177" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8517.jpg" crc="160378218" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8518.jpg" crc="3943265180" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8519.jpg" crc="458555563" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8520.jpg" crc="4062521159" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8521.jpg" crc="406976116" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8522.jpg" crc="4173627521" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8523.jpg" crc="4272708044" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8524.jpg" crc="484163192" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8525.jpg" crc="4274092696" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8526.jpg" crc="324151003" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8527.jpg" crc="3929060039" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8528.jpg" crc="97123651" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8529.jpg" crc="4173687648" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8530.jpg" crc="3903665903" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8531.jpg" crc="179558654" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8532.jpg" crc="490875002" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8533.jpg" crc="343237221" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8534.jpg" crc="3802276526" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8535.jpg" crc="4228600093" seo="true" ref="1-сентября-2019">
+      <caption webpage="1-сентября-2019" alt=""/>
+    </file>
+    <file name="dsc_8545.jpg" crc="194042019" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8546.jpg" crc="29360260" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8547.jpg" crc="528113878" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8548.jpg" crc="4038128711" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8549.jpg" crc="4156149287" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8550.jpg" crc="3918885739" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8551.jpg" crc="198801395" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8552.jpg" crc="4082391136" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8553.jpg" crc="3944855669" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8554.jpg" crc="4257367094" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8555.jpg" crc="111299778" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8556.jpg" crc="4078761219" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8557.jpg" crc="4122503676" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8558.jpg" crc="235385727" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8559.jpg" crc="4124845078" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8560.jpg" crc="184112414" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8561.jpg" crc="132919857" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8562.jpg" crc="3985384209" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8563.jpg" crc="3793079893" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8564.jpg" crc="110236608" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8565.jpg" crc="493764132" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8566.jpg" crc="376021192" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8567.jpg" crc="486704284" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8568.jpg" crc="194501143" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8569.jpg" crc="3862966578" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8570.jpg" crc="4245816116" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8571.jpg" crc="400195491" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8572.jpg" crc="4129380685" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8573.jpg" crc="519158936" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8574.jpg" crc="4112010619" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8577.jpg" crc="3907034565" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8579.jpg" crc="440039657" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8580.jpg" crc="523832076" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8581.jpg" crc="68852732" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8583.jpg" crc="4283382783" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8584.jpg" crc="4065111794" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8585.jpg" crc="109858387" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8586.jpg" crc="4180081298" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8587.jpg" crc="4032208868" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8588.jpg" crc="3825382927" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8594.jpg" crc="3778525075" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8595.jpg" crc="431667362" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8596.jpg" crc="4023237707" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8597.jpg" crc="10718595" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8598.jpg" crc="141399441" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8599.jpg" crc="3839359643" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8600.jpg" crc="73448394" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8601.jpg" crc="3958889410" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8602.jpg" crc="3848046734" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8603.jpg" crc="50192578" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8604.jpg" crc="3817783065" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8605.jpg" crc="101068807" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8606.jpg" crc="536614978" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8607.jpg" crc="140038425" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8608.jpg" crc="300079328" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8609.jpg" crc="79311282" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8610.jpg" crc="521017795" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8611.jpg" crc="4251588873" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8612.jpg" crc="88873757" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8613.jpg" crc="380829022" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8614.jpg" crc="382778946" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8615.jpg" crc="498248098" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8616.jpg" crc="320059590" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8617.jpg" crc="3876100986" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8618.jpg" crc="164468849" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8619.jpg" crc="3832183145" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8620.jpg" crc="4239722429" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8621.jpg" crc="3761367271" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8622.jpg" crc="4258616569" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8623.jpg" crc="35122921" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8624.jpg" crc="4178086205" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8625.jpg" crc="338175875" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8626.jpg" crc="3971142173" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8627.jpg" crc="477328472" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8628.jpg" crc="200778120" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8629.jpg" crc="4075509643" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8630.jpg" crc="285874045" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8631.jpg" crc="12800220" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8632.jpg" crc="3799019349" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8633.jpg" crc="2832585" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8634.jpg" crc="200077803" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8635.jpg" crc="4124032107" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8636.jpg" crc="146499913" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8637.jpg" crc="190568953" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8638.jpg" crc="335827106" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8639.jpg" crc="233065885" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8640.jpg" crc="386758953" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8641.jpg" crc="242628216" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8642.jpg" crc="3958504079" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8643.jpg" crc="370908533" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8644.jpg" crc="4206742443" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8645.jpg" crc="4239511959" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8646.jpg" crc="229698353" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8647.jpg" crc="3868321080" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8648.jpg" crc="4209496768" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8649.jpg" crc="3859439765" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8650.jpg" crc="3879946418" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8651.jpg" crc="503177415" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8652.jpg" crc="4265491020" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8654.jpg" crc="4035314031" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8655.jpg" crc="3883823154" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8656.jpg" crc="436660097" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8657.jpg" crc="3870123729" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8658.jpg" crc="498410593" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8659.jpg" crc="366646542" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8660.jpg" crc="3936675374" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8661.jpg" crc="308000149" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8662.jpg" crc="370871368" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8663.jpg" crc="4162925408" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8664.jpg" crc="4086872113" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8665.jpg" crc="4164524099" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8666.jpg" crc="115026368" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8667.jpg" crc="496132713" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8668.jpg" crc="3901781716" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8669.jpg" crc="4031121256" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8670.jpg" crc="412175576" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8671.jpg" crc="3769279551" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8672.jpg" crc="485219593" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8673.jpg" crc="3779701042" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8674.jpg" crc="4207427303" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8675.jpg" crc="4061026262" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8676.jpg" crc="3946316117" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8677.jpg" crc="3910554001" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8678.jpg" crc="4228130925" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8679.jpg" crc="4196977124" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8680.jpg" crc="384323246" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8681.jpg" crc="444266932" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8683.jpg" crc="4005436450" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8684.jpg" crc="4156438706" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8686.jpg" crc="4198941511" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8687.jpg" crc="3845702534" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8688.jpg" crc="256965798" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8689.jpg" crc="220639263" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8690.jpg" crc="315723993" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8691.jpg" crc="37777490" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8692.jpg" crc="4257976298" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8693.jpg" crc="3777487609" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8694.jpg" crc="4018987227" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8695.jpg" crc="4008273548" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8696.jpg" crc="4134654028" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8697.jpg" crc="3963813533" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8698.jpg" crc="4142657033" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8699.jpg" crc="532005739" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8700.jpg" crc="41739023" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8701.jpg" crc="154488746" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8702.jpg" crc="3780341023" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8703.jpg" crc="4067666625" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8704.jpg" crc="348200584" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8705.jpg" crc="343496432" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8706.jpg" crc="2048738" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8707.jpg" crc="107714051" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8708.jpg" crc="253729229" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8709.jpg" crc="3785557503" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8710.jpg" crc="3816797043" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8711.jpg" crc="3952249836" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8712.jpg" crc="3832424065" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8713.jpg" crc="413731825" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8714.jpg" crc="227660807" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8715.jpg" crc="445016271" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8717.jpg" crc="3815021040" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8718.jpg" crc="4197176478" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8719.jpg" crc="4079612043" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8720.jpg" crc="337347856" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8721.jpg" crc="102626992" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8722.jpg" crc="108957020" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8724.jpg" crc="126422839" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8725.jpg" crc="4073698126" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8726.jpg" crc="4037005253" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8727.jpg" crc="3872320132" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8728.jpg" crc="477721053" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8729.jpg" crc="160747306" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8730.jpg" crc="396782901" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8731.jpg" crc="297957693" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8736.jpg" crc="394526751" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8737.jpg" crc="3850512241" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8738.jpg" crc="535313942" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8739.jpg" crc="4192190478" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8740.jpg" crc="457950144" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8741.jpg" crc="193898555" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8743.jpg" crc="212923225" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8744.jpg" crc="209507927" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8745.jpg" crc="4006689861" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="dsc_8746.jpg" crc="501660772" seo="true" ref="хэллоуин">
+      <caption webpage="хэллоуин" alt=""/>
+    </file>
+    <file name="img_20191127_152851.jpg" crc="4189453016" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_152857.jpg" crc="4149663803" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_152900.jpg" crc="4166039933" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_152905.jpg" crc="3878613108" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_152911.jpg" crc="190569006" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_155322.jpg" crc="133947969" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_155753.jpg" crc="4004992343" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20191127_171737.jpg" crc="522138745" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0012.jpg" crc="3834809344" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0013.jpg" crc="16316299" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0015.jpg" crc="3893679343" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0016.jpg" crc="467292079" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0017.jpg" crc="4097615418" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0018.jpg" crc="323381571" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0019.jpg" crc="3930784058" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0020.jpg" crc="345246972" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0021.jpg" crc="3904294283" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img-20191129-wa0022.jpg" crc="35489316" seo="true" ref="день-матери">
+      <caption webpage="день-матери" alt=""/>
+    </file>
+    <file name="img_20190914_082933.jpg" crc="4134059833" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_082939.jpg" crc="228075629" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083134.jpg" crc="3993242532" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083138.jpg" crc="4093549454" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083321.jpg" crc="470264676" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083323.jpg" crc="4188524390" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083339.jpg" crc="68685842" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083348.jpg" crc="394808496" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083428.jpg" crc="3873364688" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083433.jpg" crc="3882818058" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083435.jpg" crc="4167059660" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083437.jpg" crc="522600599" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083910.jpg" crc="4278408671" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083911.jpg" crc="4095958696" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083912.jpg" crc="3994544080" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083913.jpg" crc="4227789239" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083914.jpg" crc="3959371951" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083930.jpg" crc="95485275" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20190914_083931.jpg" crc="3914877801" seo="true" ref="золотая-осень-2019">
+      <caption webpage="золотая-осень-2019" alt=""/>
+    </file>
+    <file name="img_20191226_173031.jpg" crc="184787067" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img_20191226_173035.jpg" crc="19732729" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img_20191226_173528.jpg" crc="50942025" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img_20191226_184217.jpg" crc="433019501" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img-20191226-wa0017.jpg" crc="21806793" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img-20191226-wa0019.jpg" crc="486862827" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img-20191226-wa0020.jpg" crc="42953100" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img-20191226-wa0021.jpg" crc="240253412" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img-20191226-wa0022.jpg" crc="310291222" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img-20191226-wa0023.jpg" crc="177611527" seo="true" ref="новый-год">
+      <caption webpage="новый-год" alt=""/>
+    </file>
+    <file name="img_20200229_111715.jpg" crc="4160621623" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="img_20200229_111716.jpg" crc="4247294232" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="img_20200229_112441.jpg" crc="227826528" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="img_20200229_114600.jpg" crc="129019389" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="img_20200229_114617.jpg" crc="6420562" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="img_20200229_114837.jpg" crc="4199666527" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="img_20200229_114838.jpg" crc="154193704" seo="true" ref="песня-строя-и-марша">
+      <caption webpage="песня-строя-и-марша" alt=""/>
+    </file>
+    <file name="20200222_113503.jpg" crc="3895818175" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121036.jpg" crc="4140138815" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121045.jpg" crc="296554851" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121111.jpg" crc="4283340879" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121114.jpg" crc="3844105316" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121138.jpg" crc="4034227255" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121146.jpg" crc="119892619" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121149.jpg" crc="187092815" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121222.jpg" crc="3867526527" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121225.jpg" crc="4078329875" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200222_121923.jpg" crc="46347734" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="img_20200222_114305.jpg" crc="3948587285" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-22 at 124216.jpg" crc="197518200" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-22 at 124218.jpg" crc="3810261531" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-22 at 124220.jpg" crc="4152665843" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-22 at 124221.jpg" crc="3809204539" seo="true" ref="23-февраля-2020">
+      <caption webpage="23-февраля-2020" alt=""/>
+    </file>
+    <file name="20200306_171544.jpg" crc="4021448312" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171556.jpg" crc="337612697" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171627.jpg" crc="4162956251" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171630.jpg" crc="67137696" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171654.jpg" crc="4058144665" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171659.jpg" crc="137581769" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171717.jpg" crc="332335765" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171743.jpg" crc="393282907" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171750.jpg" crc="3888370195" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171824.jpg" crc="4228678946" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171854.jpg" crc="453846945" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171917.jpg" crc="3864544013" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171921.jpg" crc="510215051" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_171957.jpg" crc="156179649" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_172015.jpg" crc="197298104" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_172021.jpg" crc="4260714003" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="20200306_172024.jpg" crc="4174881716" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+    <file name="img_20200306_170527.jpg" crc="194218735" seo="true" ref="8-марта">
+      <caption webpage="8-марта" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="377339212" seo="true" mt="1606368305313" redirect="true"/>
+  <file name="видео-класса.html" crc="516240770" seo="true" mt="1606376666334" redirect="true"/>
+  <file name="фото-класса.html" crc="516608653" seo="true" mt="1606376386436" redirect="true"/>
+  <file name="5-класс-фото.html" crc="262388464" seo="true" mt="1606376158253" redirect="true"/>
+  <file name="6-класс-фото.html" crc="437308236" seo="true" mt="1606376156043" redirect="true"/>
+  <file name="7-класс-фото.html" crc="4077473000" seo="true" mt="1606376186531" redirect="true"/>
+  <file name="8-класс-фото.html" crc="3788782184" seo="true" mt="1606368448227" redirect="true"/>
+  <file name="9-класс-фото.html" crc="4205441035" seo="true" mt="1606368463644" redirect="true"/>
+  <file name="просто-фото.html" crc="343560735" seo="true" mt="1606375590152" redirect="true"/>
+  <file name="1-сентября.html" crc="9393954" seo="true" mt="1606377210041" redirect="true"/>
+  <file name="15.09.18.html" crc="3867905042" seo="true" mt="1606376326136" redirect="true"/>
+  <file name="экскурсия-бот.сад-отв.html" crc="158324596" seo="true" mt="1606376825275" redirect="true"/>
+  <file name="посвящение-в-пятиклассники.html" crc="4184430623" seo="true" mt="1606377170826" redirect="true"/>
+  <file name="мета-урок.html" crc="3913822617" seo="true" mt="1606377508256" redirect="true"/>
+  <file name="экскурсия-в-музей.html" crc="259863818" seo="true" mt="1606377719472" redirect="true"/>
+  <file name="день-победы.html" crc="146301883" seo="true" mt="1606377871134" redirect="true"/>
+  <file name="последнее-мероприятие.html" crc="4276209413" seo="true" mt="1606378031224" redirect="true"/>
+  <file name="золотая-осень.html" crc="436772089" seo="true" mt="1606378185807" redirect="true"/>
+  <file name="1-сентября-2019.html" crc="179462800" seo="true" mt="1606494882791" redirect="true"/>
+  <file name="хэллоуин.html" crc="533801158" seo="true" mt="1606494871391" redirect="true"/>
+  <file name="день-матери.html" crc="3944408469" seo="true" mt="1606494860610" redirect="true"/>
+  <file name="золотая-осень-2019.html" crc="4128984121" seo="true" mt="1606495028247" redirect="true"/>
+  <file name="новый-год.html" crc="4026031950" seo="true" mt="1606495256799" redirect="true"/>
+  <file name="песня-строя-и-марша.html" crc="4052926996" seo="true" mt="1606495350705" redirect="true"/>
+  <file name="23-февраля-2020.html" crc="3876958133" seo="true" mt="1606495500166" redirect="true"/>
+  <file name="8-марта.html" crc="299408201" seo="true" mt="1606495581014" redirect="true"/>
+</manifest>
